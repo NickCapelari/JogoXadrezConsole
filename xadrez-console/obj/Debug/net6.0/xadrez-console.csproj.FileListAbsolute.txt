@@ -1,0 +1,15 @@
+D:\Curso.Net\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.exe
+D:\Curso.Net\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.deps.json
+D:\Curso.Net\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.runtimeconfig.json
+D:\Curso.Net\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.dll
+D:\Curso.Net\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.pdb
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfoInputs.cache
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfo.cs
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.CoreCompileInputs.cache
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.dll
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\ref\xadrez-console.dll
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.pdb
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.genruntimeconfig.cache
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.AssemblyReference.cache
+D:\Curso.Net\xadrez-console\xadrez-console\obj\Debug\net6.0\refint\xadrez-console.dll
